@@ -15,7 +15,7 @@
   <a href="https://open.spotify.com/user/31stfpglspndxkf4wfirmrelmwae">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31stfpglspndxkf4wfirmrelmwae&count=5" alt="Spotify recently played"  />
   </a>
-  <img height="200" src="https://upload-os-bbs.hoyolab.com/upload/2025/02/26/0365c039ae06e6a691ae316ef5d36876_9214765442153935029.png?x-oss-process=image/auto-orient,0/interlace,1/format,webp/quality,q_70"  />
+  <img height="200" src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Character_Tribbie_Splash_Art.png/revision/latest/scale-to-width-down/1000?cb=20250226073224"  />
 </div>
 
 ###
