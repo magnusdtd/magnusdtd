@@ -7,15 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magnusdtd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-
 ## 🧠 Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
----
-
 ## 🎵 My Music Taste
 
 <div align="center">
@@ -38,8 +32,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31stfpglspndxkf4wfirmrelmwae&count=5&width=400" alt="Spotify recently played" />
   </a>
 </div>
-
----
 
 ## 🐍 Snake Eating My Contribution Graph
 
